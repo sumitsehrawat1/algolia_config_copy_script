@@ -1,0 +1,7 @@
+ORG_NAME=AJIO
+SRC_IDX_NAME=sumit_1
+TGT_IDX_NAME=sumit_2
+SRC_IDX_API_KEY=sumit_secret
+SRC_IDX_API_SECRET=sumit_god
+TGT_IDX_API_KEY=sumit_secret1
+TGT_IDX_API_SECRET=sumit_secret2
