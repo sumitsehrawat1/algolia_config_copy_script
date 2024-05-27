@@ -24,6 +24,8 @@ echo "Source index API key secret: $SRC_IDX_API_SECRET"
 echo "Target index API key: $TGT_IDX_API_KEY"
 echo "Target index API key secret: $TGT_IDX_API_SECRET"
 
+export ORG_NAME SRC_IDX_NAME TGT_IDX_NAME SRC_IDX_API_KEY SRC_IDX_API_SECRET TGT_IDX_API_KEY TGT_IDX_API_SECRET
+
 while true; do
     read -p "Please check the above properties and confirm to proceed? (Y/N): " proceed
     case $proceed in
